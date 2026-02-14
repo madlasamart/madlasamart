@@ -2,7 +2,7 @@
 
 👩‍💻Front-end developer<br/>
 👩‍🎓Studying `Web and Mobile Development` as part of the BUT MMI program at the University Institutes of Technology, University of Grenoble Alpes<br/>
-🌱Currently learning `Dataviz` </br>
+🌱Currently learning `3D` </br>
 <!-- ⚡ Fun fact: I love reading ! -->
 
 
